@@ -1,0 +1,45 @@
+C:\Users\user\source\repos\LastSamurai\LastSamurai\obj\Debug\net6.0\LastSamurai.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\LastSamurai\LastSamurai\obj\Debug\net6.0\LastSamurai.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\LastSamurai\LastSamurai\obj\Debug\net6.0\LastSamurai.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\LastSamurai\LastSamurai\obj\Debug\net6.0\LastSamurai.AssemblyInfo.cs
+C:\Users\user\source\repos\LastSamurai\LastSamurai\obj\Debug\net6.0\LastSamurai.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\LastSamurai\LastSamurai\bin\Debug\net6.0\LastSamurai.exe
+C:\Users\user\source\repos\LastSamurai\LastSamurai\bin\Debug\net6.0\LastSamurai.deps.json
+C:\Users\user\source\repos\LastSamurai\LastSamurai\bin\Debug\net6.0\LastSamurai.runtimeconfig.json
+C:\Users\user\source\repos\LastSamurai\LastSamurai\bin\Debug\net6.0\LastSamurai.dll
+C:\Users\user\source\repos\LastSamurai\LastSamurai\bin\Debug\net6.0\LastSamurai.pdb
+C:\Users\user\source\repos\LastSamurai\LastSamurai\obj\Debug\net6.0\LastSamurai.dll
+C:\Users\user\source\repos\LastSamurai\LastSamurai\obj\Debug\net6.0\refint\LastSamurai.dll
+C:\Users\user\source\repos\LastSamurai\LastSamurai\obj\Debug\net6.0\LastSamurai.pdb
+C:\Users\user\source\repos\LastSamurai\LastSamurai\obj\Debug\net6.0\LastSamurai.genruntimeconfig.cache
+C:\Users\user\source\repos\LastSamurai\LastSamurai\obj\Debug\net6.0\ref\LastSamurai.dll
+C:\Users\82103\Documents\카카오톡 받은 파일\LastSamurai\LastSamurai\LastSamurai\bin\Debug\net6.0\LastSamurai.exe
+C:\Users\82103\Documents\카카오톡 받은 파일\LastSamurai\LastSamurai\LastSamurai\bin\Debug\net6.0\LastSamurai.deps.json
+C:\Users\82103\Documents\카카오톡 받은 파일\LastSamurai\LastSamurai\LastSamurai\bin\Debug\net6.0\LastSamurai.runtimeconfig.json
+C:\Users\82103\Documents\카카오톡 받은 파일\LastSamurai\LastSamurai\LastSamurai\bin\Debug\net6.0\LastSamurai.dll
+C:\Users\82103\Documents\카카오톡 받은 파일\LastSamurai\LastSamurai\LastSamurai\bin\Debug\net6.0\LastSamurai.pdb
+C:\Users\82103\Documents\카카오톡 받은 파일\LastSamurai\LastSamurai\LastSamurai\obj\Debug\net6.0\LastSamurai.csproj.AssemblyReference.cache
+C:\Users\82103\Documents\카카오톡 받은 파일\LastSamurai\LastSamurai\LastSamurai\obj\Debug\net6.0\LastSamurai.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\82103\Documents\카카오톡 받은 파일\LastSamurai\LastSamurai\LastSamurai\obj\Debug\net6.0\LastSamurai.AssemblyInfoInputs.cache
+C:\Users\82103\Documents\카카오톡 받은 파일\LastSamurai\LastSamurai\LastSamurai\obj\Debug\net6.0\LastSamurai.AssemblyInfo.cs
+C:\Users\82103\Documents\카카오톡 받은 파일\LastSamurai\LastSamurai\LastSamurai\obj\Debug\net6.0\LastSamurai.csproj.CoreCompileInputs.cache
+C:\Users\82103\Documents\카카오톡 받은 파일\LastSamurai\LastSamurai\LastSamurai\obj\Debug\net6.0\LastSamurai.dll
+C:\Users\82103\Documents\카카오톡 받은 파일\LastSamurai\LastSamurai\LastSamurai\obj\Debug\net6.0\refint\LastSamurai.dll
+C:\Users\82103\Documents\카카오톡 받은 파일\LastSamurai\LastSamurai\LastSamurai\obj\Debug\net6.0\LastSamurai.pdb
+C:\Users\82103\Documents\카카오톡 받은 파일\LastSamurai\LastSamurai\LastSamurai\obj\Debug\net6.0\LastSamurai.genruntimeconfig.cache
+C:\Users\82103\Documents\카카오톡 받은 파일\LastSamurai\LastSamurai\LastSamurai\obj\Debug\net6.0\ref\LastSamurai.dll
+C:\Users\82103\Desktop\LastSamurai\LastSamurai\LastSamurai\bin\Debug\net6.0\LastSamurai.exe
+C:\Users\82103\Desktop\LastSamurai\LastSamurai\LastSamurai\bin\Debug\net6.0\LastSamurai.deps.json
+C:\Users\82103\Desktop\LastSamurai\LastSamurai\LastSamurai\bin\Debug\net6.0\LastSamurai.runtimeconfig.json
+C:\Users\82103\Desktop\LastSamurai\LastSamurai\LastSamurai\bin\Debug\net6.0\LastSamurai.dll
+C:\Users\82103\Desktop\LastSamurai\LastSamurai\LastSamurai\bin\Debug\net6.0\LastSamurai.pdb
+C:\Users\82103\Desktop\LastSamurai\LastSamurai\LastSamurai\obj\Debug\net6.0\LastSamurai.csproj.AssemblyReference.cache
+C:\Users\82103\Desktop\LastSamurai\LastSamurai\LastSamurai\obj\Debug\net6.0\LastSamurai.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\82103\Desktop\LastSamurai\LastSamurai\LastSamurai\obj\Debug\net6.0\LastSamurai.AssemblyInfoInputs.cache
+C:\Users\82103\Desktop\LastSamurai\LastSamurai\LastSamurai\obj\Debug\net6.0\LastSamurai.AssemblyInfo.cs
+C:\Users\82103\Desktop\LastSamurai\LastSamurai\LastSamurai\obj\Debug\net6.0\LastSamurai.csproj.CoreCompileInputs.cache
+C:\Users\82103\Desktop\LastSamurai\LastSamurai\LastSamurai\obj\Debug\net6.0\LastSamurai.dll
+C:\Users\82103\Desktop\LastSamurai\LastSamurai\LastSamurai\obj\Debug\net6.0\refint\LastSamurai.dll
+C:\Users\82103\Desktop\LastSamurai\LastSamurai\LastSamurai\obj\Debug\net6.0\LastSamurai.pdb
+C:\Users\82103\Desktop\LastSamurai\LastSamurai\LastSamurai\obj\Debug\net6.0\LastSamurai.genruntimeconfig.cache
+C:\Users\82103\Desktop\LastSamurai\LastSamurai\LastSamurai\obj\Debug\net6.0\ref\LastSamurai.dll
